@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "ApplicationOptions:SoraCamDeviceId": "YOUR-SORACAME-DEVICE-ID",
+    "ApplicationOptions:BlobContainerName": "soracom",
+    "SoracomOptions:AuthKeyId": "keyId-xxxxxxxxxxxxxxxxxxx",
+    "SoracomOptions:AuthKey": "secret-xxxxxxxxxxxxxxxxxxxx"
+  },
+  "ConnectionStrings": {
+    "StorageConnectionString": "UseDevelopmentStorage=true"
+  }
+}
