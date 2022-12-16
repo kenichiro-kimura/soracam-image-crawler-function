@@ -24,6 +24,7 @@ docker run --rm -v ${PWD}:/local openapitools/openapi-generator-cli generate -i 
 | Key | Value |
 | --- | --- |
 | ApplicaitonOptions__SoraCamDeviceId | Your sora_cam device id to crawl images |
+| ApplicaitonOptions__BlobContainerName | Blob container name to upload crawl images |
 | SoracomOptions__AuthKeyId | Your Soracom API key id |
 | SoracomOptions__AuthKey | Your Soracom API key |
 
