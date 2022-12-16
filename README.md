@@ -46,4 +46,3 @@ If you want to authenticate with a SAM user, add the following settings.
 And create a connection string named `StorageConnectionString` with the connection string of the Storage Account.
 
 6. Build and deploy the project to the Function App
-7. 
